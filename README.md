@@ -1,16 +1,11 @@
-### Hi there 👋
+Hi there 👋 
+-----------
 
-<!--
-**wildcard/wildcard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 I'm currently reading "Sapiens: A Brief History of Humankind"
+- 🔭 I'm currently working on creating improved & more natural onboarding processes 
+- 🌱 I'm currently learning everything about [Wix Engineering](https://www.wix.engineering/)
+- 👯 I'm looking to collaborate on starting a leaner/developer community of people enthusiastic about continues learning
+- 🤔 I'm looking for help with finding sister companies to Wix - to established shared Slack channels
+- 💬 Ask me about Decentralized Tech, Slack & Professional growth 
+- 📫 How to reach me: try me on any communication platform on my [website](https://kobi.kadosh.me) 
+- ⚡ Fun fact: I've washed my hands regularly before COVID-19 🧼
