@@ -9,3 +9,4 @@ Hi there 👋
 - 💬 Ask me about Decentralized Tech, Slack & Professional growth 
 - 📫 How to reach me: try me on any communication platform on my [website](https://kobi.kadosh.me) 
 - ⚡ Fun fact: I've washed my hands regularly before COVID-19 🧼
+- 🎨 My theme of choice [Rigellute/rigel](https://github.com/Rigellute/rigel) former [Night Owl](https://github.com/sdras/night-owl-vscode-theme)
