@@ -12,7 +12,7 @@ I've took the 16personalities.com Personality Test & I'm happy to share my [Turb
 - 📫 How to reach me: try me on any communication platform on my [website](https://kobi.kadosh.me) 
 - ⚡ Fun fact: I've washed my hands regularly before COVID-19 🧼 🙈
 - 🎨 My theme of choice [Rigellute/rigel](https://github.com/Rigellute/rigel) former [Night Owl](https://github.com/sdras/night-owl-vscode-theme)
-- 🐠 swimminh with the [fish](https://fishshell.com/) shell
+- 🐠 swimming with the [fish](https://fishshell.com/) shell
 - 🚀 Using [starship](https://starship.rs/) Shell Prompt 
 
 Friend me on Discord `Kobi#0075`
