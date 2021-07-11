@@ -15,7 +15,7 @@ I've took the 16personalities.com Personality Test & I'm happy to share my [Turb
 - 🐠 swimming with the [fish](https://fishshell.com/) shell
 - 🚀 Using [starship](https://starship.rs/) Shell Prompt 
 
-Friend me on Discord `Kobi#0075`
+Friend me on Discord `Kobi#2332`
 
 ## Cool links
 
