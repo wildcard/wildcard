@@ -3,7 +3,7 @@ Hi there 👋
 
 I've took the 16personalities.com Personality Test & I'm happy to share my [Turbulent Campaigner :climbing_woman:](https://www.16personalities.com/profiles/5bfb3b93f8353) personality 
 
-- 📚 I'm ~~currently reading~~ read "Sapiens: A Brief History of Humankind"
+- 📚 I ~~'m currently reading~~ read "Sapiens: A Brief History of Humankind"
 - 🔭 I'm currently working on creating improved & more natural onboarding processes 
 - 🌱 I'm currently learning everything about [Wix Engineering](https://www.wix.engineering/)
 - 👯 I'm looking to collaborate on starting a learner/developer community of people enthusiastic about continuous learning
