@@ -18,6 +18,8 @@ I've took the 16personalities.com Personality Test & I'm happy to share my [Turb
 
 Friend me on Discord `Kobi#2332`
 
+Buy me Coffee ☕ on https://www.buymeacoffee.com/kobikadosh
+
 ## Cool links
 
 - [ERA](https://era.eco/)
