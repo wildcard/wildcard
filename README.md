@@ -10,11 +10,12 @@ I've took the 16personalities.com Personality Test & I'm happy to share my [Turb
 - 🤔 I'm looking for help with finding sister companies to Wix - to established shared Slack channels
 - 💬 Ask me about Decentralized Tech, Slack, discord, keybase & Professional growth 
 - 📫 How to reach me: try me on any communication platform on my [website](https://kobi.kadosh.me) 
-- ⚡ Fun fact: I've washed my hands regularly before COVID-19 🧼 🙈
+- ⚡ Fun fact: I've washed my hands regularly before COVID-19 🧼
 - 🎨 My theme of choice [Rigellute/rigel](https://github.com/Rigellute/rigel) former [Night Owl](https://github.com/sdras/night-owl-vscode-theme)
 - 🐠 swimming with the [fish](https://fishshell.com/) shell
 - 🚀 Using [starship](https://starship.rs/) Shell Prompt 
 - 🪙 My favorite crypto [DOT](https://www.coinbase.com/price/polkadot) part of the [Polkadot project](https://polkadot.network/)
+- 🙈 I keep my secrets on [Keybase](https://keybase.io/kobi)
 
 Friend me on Discord `Kobi#2332`
 
